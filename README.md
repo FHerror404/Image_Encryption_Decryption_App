@@ -35,6 +35,13 @@ This project is a **Java-based desktop application** that allows users to secure
 
 ---
 
+### ✅ Prerequisites
+
+- Java Development Kit (JDK 8 or later)
+- Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
+  
+---
+
 ## 🖥️ GUI Overview
 
 The application GUI includes:
@@ -46,13 +53,4 @@ The application GUI includes:
 ---
 
 
-### ✅ Prerequisites
 
-- Java Development Kit (JDK 8 or later)
-- Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
-
-### 📦 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ImageEncryptionApp.git
